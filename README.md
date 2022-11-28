@@ -1,2 +1,5 @@
-# hello-world-
-This is a basic program written in c language 
+#include<studio.h>
+void main()
+{
+print("hello world")
+}
